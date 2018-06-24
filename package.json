@@ -9,5 +9,5 @@
         "socket.io": "^1.2.1"
     },
     "author": "mjoshi",
-    "description": "MJ A real-time super chat with socket .io"
+    "description": "MJ chatapp with socket .io"
 }
