@@ -1,0 +1,13 @@
+{
+    "name": "superMJchat",
+    "version": "0.1.0",
+    "dependencies": {
+        "ent": "^0.1.0",
+        "express": "^3.3.8",
+        "nodent": "^3.2.6",
+        "package.json": "^2.0.1",
+        "socket.io": "^1.2.1"
+    },
+    "author": "mjoshi",
+    "description": "MJ A real-time super chat with socket .io"
+}
